@@ -7,9 +7,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=alzeth&theme=github_dark&show_icons=true" />
   </a>
 </div>
-<!--<a href="https://github.com/alzeth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzeth&theme=github_dark&show_icons=true" />
-</a>-->
+<div>
+  <a href="https://github.com/alzeth">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzeth&theme=github_dark&show_icons=true" />
+  </a>
+</div>
 
 <!--
 **Alzeth/Alzeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
