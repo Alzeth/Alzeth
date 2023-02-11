@@ -2,7 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software Engineer from 🇺🇦</h3>
 
-<div align="center">[![alzeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=alzeth&theme=github_dark&show_icons=true)](https://github.com/alzeth/github-readme-stats)</div>
+[![Alzeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=alzeth&theme=github_dark&show_icons=true)](https://github.com/alzeth/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alzeth&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Alzeth/Alzeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
