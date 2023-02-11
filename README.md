@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software Engineer from 🇺🇦</h3>
 
-![[My GitHub stats](https://github-readme-stats.vercel.app/api?username=alzeth&show_icons=true&theme=transparent)
+[![alzeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=alzeth)](https://github.com/alzeth/github-readme-stats)
 
 <!--
 **Alzeth/Alzeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
